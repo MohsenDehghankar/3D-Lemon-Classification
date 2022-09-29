@@ -4,7 +4,7 @@ This task is for classifying images of lemons, given in different spectrums as 3
 Some 3D CNN model implementations are taken from this repository: https://github.com/xmuyzz/3D-CNN-PyTorch
 
 # Getting started
-Use the main.ipynb notebook to run and test the model. Also the pretrained model is available here.
+Use the Lemon-CNN-*.ipynb notebook to run and test the model. Also the pretrained model is available [here](https://drive.google.com/file/d/1M_8dYTnM2hnpZmkrHDqqyr8iSdobG6bM/view?usp=sharing).
 
 # Report
-The report and description of the task can be found here.
+The report and description of the task can be found [here](https://drive.google.com/file/d/1M_8dYTnM2hnpZmkrHDqqyr8iSdobG6bM/view?usp=sharing).
