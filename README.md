@@ -1,5 +1,5 @@
 # 3D-Lemon-Classification
-This task is for classifying images of lemons, given in different spectrums as 3D images. The sample may represent a healthy lemon, 8 hours or 24 hours since fallen from the tree. We reached an accuracy of 92.8%.
+This task is for classifying and detecting freshness of 3D lemon hyperspectral images. The sample may represent a healthy lemon, 8 hours or 24 hours since fallen from the tree. We reached an accuracy of 92.8%.
 
 Some 3D CNN model implementations are taken from this repository: https://github.com/xmuyzz/3D-CNN-PyTorch (MIT License)
 
